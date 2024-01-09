@@ -1,0 +1,45 @@
+body{
+
+    background-image: url("images/kittybg.jpg");
+}
+
+
+
+
+
+h1{
+
+    text-align: center;
+
+}
+
+.imgtxt{
+    font-size: 24px;
+    margin-left: 236px;
+}
+
+
+.para{
+
+ text-align: center;
+ background-color: #febebf;
+ font-size: 16px !important;
+ border: 5px black solid;
+ margin: 20px;
+
+}
+
+
+
+
+.adtform{
+
+background-color: #febebf;
+text-align: center;
+border: 5px solid black;
+
+
+
+}
+
+h3{text-align: center;}
